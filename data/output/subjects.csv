@@ -1,0 +1,56 @@
+id,name,level
+5DATA,Data Engineering,MSC2
+4ARCH,AWS Architecture,MSC1
+4CCNA,Cisco Networking,MSC1
+4DATA,Data Science,MSC1
+4DOKR,Developing and Delivering Softwares with Docker,MSC1
+4GDPR,IT Law,MSC1
+4KUBE,Cloud Native Architecture,MSC1
+4PENE,IT Security,MSC1
+4VIRT,Virtualization,MSC1
+4CHGM,ITIL Change,MSC1
+4DVOP,DevOps,MSC1
+4MLSP,Machine Learning,MSC1
+5RBIG,R Statistics,MSC2
+1PROG,Development,ASC1
+1WDEV,Web Development,ASC1
+1JWPD,WordPress Development,ASC1
+1PYTH,Python Development,ASC1
+1SGBD,Data Base,ASC1
+1INTD,Design,ASC1
+1ITWO,Systems and Networking,ASC1
+1TEAM,Management,ASC1
+1ILIP,Law,ASC1
+1ENGL,English,ASC1
+2AWSP,AWS Architecture,ASC2
+2BABA,AliBaba architecture,ASC2
+2DTTL,Digital Transformation,ASC2
+2PMGT,Project Management,ASC2
+2COOR,Project Management 2,ASC2
+2DSTM,Data Science,ASC2
+2DVST,Data Science 2,ASC2
+2JAVA,Java Development,ASC2
+2CCPP,C\C++ Development,ASC2
+2PHPD,PHP Development,ASC2
+2SEOE,Web Marketing,ASC2
+2UIXD,Software Design,ASC2
+2MCSA,Windows Server Administration,ASC2
+2ENGL,English,ASC2
+3BOPA,Businness Management,BSC
+3INML,Project Management,BSC
+3AGIL,Agile,BSC
+3TPMG,Project Management,BSC
+3DVSC,Data Analysis,BSC
+3ASPC,NET Development,BSC
+3ANDM,Android Development,BSC
+3IOSD,IOS Development,BSC
+3MERN,Web Development,BSC
+3CCNA,Cisco Networking,BSC
+3SECU,Security,BSC
+3ENGL,English,BSC
+5ITIL,ITIL,MSC2
+5DOOP,Hadoop,MSC2
+5CCNA,Cisco Networking,MSC2
+5DEEP,Machine Learning Development,MSC2
+5AIML,Artificial Intelligence Development,MSC2
+5ENGL,English,MSC2

@@ -1,0 +1,6 @@
+dags/__pycache__/
+terraform/.terraform
+terraform/*.tfstate
+terraform/*.backup
+terraform/*.tfvars
+terraform/*.info

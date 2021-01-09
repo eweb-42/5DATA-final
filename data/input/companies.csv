@@ -1,0 +1,1001 @@
+id,name,phone,domain,address
+1,Oyoba,330-214-1100,Health Care,1920 Shelley Trail
+2,Yotz,594-402-5164,Public Utilities,883 Express Drive
+3,Buzzster,873-125-4617,n/a,808 Susan Alley
+4,Einti,208-162-1172,Finance,29 Hazelcrest Point
+5,Tazz,668-287-9938,Health Care,1439 Hooker Circle
+6,Photolist,377-718-6589,n/a,3088 Laurel Center
+7,Brainverse,720-141-3180,Capital Goods,06 Bluejay Way
+8,Skiptube,855-733-6158,Finance,570 Stang Drive
+9,Flashdog,100-146-1005,Finance,435 Donald Road
+10,Zoomzone,831-407-2212,n/a,1 Mandrake Avenue
+11,Youtags,624-297-9532,Health Care,13 Brickson Park Lane
+12,Topicshots,849-342-5485,Health Care,10492 Quincy Drive
+13,Leenti,714-703-7108,Health Care,0640 Manley Junction
+14,Skibox,920-586-1910,Consumer Services,4 Vahlen Court
+15,Eire,539-948-3567,Energy,58377 Emmet Point
+16,Podcat,184-955-7236,Technology,7347 Heffernan Pass
+17,Babbleset,145-580-3855,Technology,147 Bunting Drive
+18,Lazzy,406-343-5289,Consumer Non-Durables,6072 American Ash Hill
+19,Edgeclub,634-340-4905,Energy,22593 Hollow Ridge Way
+20,Jamia,714-669-5131,Public Utilities,053 Hoepker Hill
+21,Muxo,643-825-1301,Consumer Services,16245 Darwin Court
+22,Realfire,102-266-9178,Energy,38 Talisman Avenue
+23,Eadel,757-780-4296,Health Care,7088 Larry Crossing
+24,Jabberstorm,237-507-6805,Technology,39 Emmet Lane
+25,Edgetag,163-697-7836,Finance,0150 Sloan Junction
+26,Twiyo,778-390-1731,Energy,53535 Talisman Terrace
+27,Kayveo,502-822-7124,n/a,856 Luster Center
+28,Tagfeed,894-142-1220,Basic Industries,8 Briar Crest Road
+29,Thoughtbeat,111-939-9622,n/a,0176 Scofield Lane
+30,Avamba,730-928-4899,Transportation,42 Erie Pass
+31,Lajo,844-598-0536,n/a,07799 Pawling Place
+32,Mudo,283-472-2931,Capital Goods,9817 Hoepker Junction
+33,Tazzy,502-920-4693,Energy,27 Old Shore Center
+34,Brightdog,208-421-3540,Consumer Services,1328 Lakewood Gardens Pass
+35,Wikizz,971-835-4312,Technology,2870 Ohio Lane
+36,Brightbean,128-649-4916,n/a,22662 Arrowood Crossing
+37,Meejo,631-483-1436,Finance,6022 Waxwing Parkway
+38,Zoozzy,250-166-6140,Energy,323 Luster Terrace
+39,Brainverse,335-738-4401,Energy,7 Tony Drive
+40,Meejo,184-514-1189,Finance,2 Holmberg Place
+41,InnoZ,287-795-5111,Basic Industries,14 Brentwood Center
+42,Agivu,315-533-8254,Consumer Services,07 Heffernan Junction
+43,Quimm,272-570-2771,Health Care,9831 Canary Court
+44,Tazzy,609-363-1623,Consumer Services,0866 Raven Lane
+45,Meezzy,281-875-2795,Consumer Services,11 Drewry Terrace
+46,Miboo,751-545-1673,Public Utilities,6833 Valley Edge Center
+47,Katz,229-371-6455,Health Care,9 Nelson Drive
+48,Jaxnation,393-747-7078,n/a,68030 Spohn Terrace
+49,Photobug,554-676-7020,Consumer Non-Durables,2 Luster Center
+50,Vinder,986-227-2974,Finance,11 Clove Place
+51,Ailane,248-637-7088,Consumer Services,5621 Schlimgen Parkway
+52,Buzzbean,813-116-3412,Public Utilities,598 Gateway Trail
+53,Avamba,191-627-2627,Consumer Services,63 Golf Course Place
+54,Yodoo,212-325-7281,Basic Industries,07436 Bonner Park
+55,Skilith,278-931-2323,Technology,4280 Drewry Center
+56,Skajo,846-446-1210,n/a,0 Hallows Junction
+57,Skyvu,308-338-3338,Health Care,370 Scofield Drive
+58,Youspan,776-200-8920,Public Utilities,74221 Hanover Point
+59,Quinu,691-801-1910,n/a,4 Spaight Road
+60,Skyble,465-719-5022,Transportation,547 Dixon Road
+61,Photojam,703-647-0235,Consumer Durables,02 Trailsway Hill
+62,Feednation,841-668-6578,n/a,0 Eastlawn Park
+63,Aivee,114-341-8388,Consumer Services,59 Talmadge Way
+64,Mydo,730-524-3877,n/a,231 Luster Trail
+65,Yambee,113-203-3356,Health Care,538 Maple Circle
+66,Eabox,655-250-9874,n/a,0369 Eagan Park
+67,Meeveo,993-564-0648,Miscellaneous,4 Delladonna Way
+68,Devpulse,607-282-6346,n/a,448 Loomis Circle
+69,Skynoodle,735-424-9850,Energy,96 Ronald Regan Terrace
+70,Eimbee,801-926-7501,n/a,5081 Katie Alley
+71,Katz,960-145-2221,Miscellaneous,0092 Green Road
+72,Photolist,235-488-2439,Health Care,8660 Paget Plaza
+73,Pixope,834-353-2980,Basic Industries,17701 Transport Pass
+74,Flipstorm,998-297-5121,n/a,088 Michigan Pass
+75,Gabtype,265-480-0740,n/a,926 Mandrake Point
+76,Vinte,383-710-6204,Health Care,6 Old Gate Road
+77,Wikizz,518-547-3437,n/a,5366 Darwin Park
+78,Fanoodle,983-648-4902,Public Utilities,3832 Sauthoff Pass
+79,Gigazoom,911-935-8061,Health Care,1 Victoria Road
+80,Oyope,926-642-0017,Consumer Non-Durables,180 Lawn Road
+81,Quimba,958-217-6417,n/a,35 Grover Road
+82,Plambee,242-942-2875,Capital Goods,622 Redwing Court
+83,Jazzy,135-533-8725,Consumer Services,5 Hazelcrest Center
+84,Topicblab,101-539-6703,n/a,2 Russell Lane
+85,Dabvine,292-178-7758,n/a,43655 Truax Trail
+86,Mynte,275-771-0868,Health Care,9800 Toban Avenue
+87,Trudoo,541-913-8445,Technology,1316 Colorado Hill
+88,Vinder,977-673-5612,Consumer Services,222 Melby Pass
+89,Riffwire,734-846-3287,Technology,45 Hintze Circle
+90,Zoomcast,364-581-3136,Finance,86556 Mcbride Way
+91,Gigazoom,348-469-0245,Basic Industries,455 Moland Drive
+92,Brightdog,418-275-0603,Finance,00051 Spohn Lane
+93,Thoughtworks,478-917-4758,n/a,9 Surrey Hill
+94,Gigashots,895-648-6243,Consumer Services,51594 Oxford Parkway
+95,Pixoboo,108-584-4526,Public Utilities,653 Summit Alley
+96,Abatz,613-925-5529,Health Care,51921 Garrison Point
+97,Mynte,862-357-8114,Consumer Services,500 Stone Corner Street
+98,Podcat,607-785-0953,Finance,5393 Canary Street
+99,Janyx,429-413-3327,n/a,4824 Stang Plaza
+100,Tagcat,266-162-5383,Finance,785 Bay Street
+101,Feednation,201-466-8031,Capital Goods,7889 Brown Drive
+102,Tekfly,209-648-6140,Technology,6 Myrtle Lane
+103,Podcat,349-404-7448,n/a,785 Independence Park
+104,Fliptune,776-564-0063,n/a,573 Redwing Court
+105,Gigabox,572-962-4013,Consumer Services,7663 Express Avenue
+106,Skaboo,272-335-3815,Consumer Non-Durables,88994 Ohio Park
+107,Abata,275-429-6228,n/a,53522 High Crossing Circle
+108,Wikido,210-158-1482,Consumer Non-Durables,10 Florence Point
+109,Ailane,978-187-7493,Finance,08 Judy Trail
+110,Reallinks,949-800-0117,n/a,1390 Golf Course Avenue
+111,Tagcat,924-685-3180,Miscellaneous,2960 Menomonie Pass
+112,Roombo,413-326-0600,Finance,25872 Division Parkway
+113,Vidoo,348-288-6816,Finance,2687 Carioca Alley
+114,Bluejam,501-311-7829,Transportation,46 Cardinal Hill
+115,Jabberbean,496-310-2843,Public Utilities,2 South Street
+116,Skiptube,564-936-3172,Consumer Services,51303 Tony Court
+117,Divape,673-675-7900,Consumer Services,91 Elmside Junction
+118,Trudeo,636-913-6178,Technology,0557 Morrow Street
+119,Yodo,731-745-8868,Consumer Services,3 Lerdahl Drive
+120,Oloo,970-172-9130,n/a,187 Canary Crossing
+121,Youspan,574-904-4627,Health Care,1595 Merchant Court
+122,Twitterwire,481-715-4064,Consumer Services,3398 Sutteridge Pass
+123,Browsecat,850-815-9958,n/a,9111 Acker Park
+124,Meeveo,494-799-4109,Health Care,57590 Pine View Point
+125,Mydo,127-426-9011,Capital Goods,57823 Warner Lane
+126,Tagfeed,360-436-6609,n/a,921 Lakewood Gardens Plaza
+127,Zoonder,921-897-0577,Finance,9149 Dawn Parkway
+128,Centizu,614-730-0865,Capital Goods,248 Hollow Ridge Hill
+129,Mybuzz,652-197-5727,Basic Industries,10232 Declaration Lane
+130,Jayo,592-993-2999,Health Care,24 Dixon Hill
+131,Agivu,215-431-1455,n/a,3104 Sycamore Road
+132,Kayveo,278-842-1353,n/a,64020 Springview Place
+133,Mynte,220-778-2592,Public Utilities,34505 Reindahl Hill
+134,Photobug,296-818-6470,n/a,4 Declaration Park
+135,Fivebridge,223-684-9474,Capital Goods,51 Pierstorff Terrace
+136,Divanoodle,943-938-8080,Consumer Services,42192 Eggendart Center
+137,Skyble,473-962-4437,Consumer Durables,5614 David Way
+138,Yabox,523-988-9509,Health Care,5 Forster Junction
+139,Blognation,375-597-1194,Finance,277 Ryan Point
+140,Wikibox,800-399-3826,n/a,0 Shelley Park
+141,Skajo,856-694-9028,Finance,396 Logan Junction
+142,Flipbug,237-972-1022,n/a,4576 Scott Crossing
+143,Yakijo,610-844-0272,Consumer Services,4531 Birchwood Drive
+144,Aivee,957-824-1671,Finance,6705 Calypso Park
+145,Photobean,645-606-8198,Consumer Services,748 Redwing Circle
+146,Thoughtbeat,916-760-7207,n/a,9 Arkansas Lane
+147,Shuffledrive,347-824-9248,n/a,6 Eastlawn Trail
+148,Thoughtbeat,821-901-2147,n/a,0 Alpine Way
+149,Yoveo,670-354-7014,Finance,87344 Surrey Avenue
+150,Riffpedia,884-337-5002,n/a,640 Dawn Trail
+151,Jabbersphere,905-388-3538,n/a,91 Caliangt Court
+152,Gigaclub,478-964-1295,Consumer Services,446 Mcbride Trail
+153,Tazzy,403-632-0194,Technology,0177 Memorial Court
+154,Avamba,283-597-9832,Technology,2516 Hovde Plaza
+155,Youfeed,394-347-9510,Consumer Services,3 Erie Terrace
+156,Zoomdog,201-299-3354,Consumer Services,6240 Milwaukee Circle
+157,Topicblab,978-566-4135,Capital Goods,0 Bobwhite Center
+158,Nlounge,625-349-7618,Basic Industries,646 Eagan Avenue
+159,Trudoo,433-745-9826,Technology,7094 Moulton Way
+160,Skiba,841-695-6539,Basic Industries,86566 Morningstar Court
+161,Quimm,342-665-5080,Finance,0 Crest Line Drive
+162,Skinte,184-431-1729,Consumer Services,0 Upham Drive
+163,Vidoo,665-176-3700,Capital Goods,236 Novick Junction
+164,Lazz,743-839-1085,Finance,88458 Marcy Circle
+165,Photojam,416-192-4679,Consumer Non-Durables,19079 Moose Circle
+166,Twitterbridge,939-696-1500,Finance,32 Charing Cross Place
+167,Riffpedia,379-696-6244,Consumer Durables,0 Sunnyside Lane
+168,Snaptags,576-867-5080,Consumer Non-Durables,79632 Morrow Point
+169,Riffpath,787-354-9689,Health Care,14089 Mockingbird Center
+170,Wordware,717-345-7060,Energy,913 5th Circle
+171,Kayveo,136-276-1644,Capital Goods,1 Norway Maple Park
+172,Vitz,880-415-3397,Finance,3 Stone Corner Lane
+173,Linktype,745-732-6890,Capital Goods,5967 Banding Junction
+174,Snaptags,970-409-3162,Health Care,473 Hayes Road
+175,Browseblab,798-944-8643,Public Utilities,961 Oriole Court
+176,Centizu,405-923-6567,Capital Goods,27 Sachtjen Road
+177,Zoonder,157-206-6673,n/a,1 Hansons Drive
+178,Oodoo,315-706-2467,Health Care,3425 Holmberg Circle
+179,BlogXS,715-359-7875,n/a,34902 Debs Place
+180,Eimbee,306-806-8777,Finance,2130 Bartelt Junction
+181,Nlounge,872-694-2354,Energy,16 East Place
+182,Thoughtblab,495-535-3606,Health Care,680 Pawling Drive
+183,Zoomcast,830-188-5378,Consumer Services,765 Kipling Parkway
+184,Tagopia,390-304-3038,Basic Industries,07 Charing Cross Circle
+185,Dynabox,682-991-3883,n/a,50 Transport Trail
+186,Linktype,997-713-0093,n/a,85 Meadow Ridge Court
+187,Skinte,586-271-4882,Energy,34976 Village Hill
+188,Brainverse,885-622-7599,Consumer Durables,166 Prairieview Center
+189,Skimia,905-383-3232,Technology,8 Gale Place
+190,Meedoo,206-683-3401,Finance,04 Di Loreto Avenue
+191,Realmix,899-723-6781,Health Care,4 Golf Park
+192,Jabberstorm,338-190-9463,n/a,3 Florence Place
+193,Zazio,593-795-6451,n/a,84214 Little Fleur Drive
+194,Quinu,990-523-5304,n/a,38307 Cody Place
+195,Gabspot,462-762-5689,n/a,4 Barnett Way
+196,Edgeclub,898-555-2962,Health Care,550 Bowman Trail
+197,Latz,744-987-7102,n/a,41 Vidon Junction
+198,Mita,108-801-1536,n/a,0826 Orin Hill
+199,Jaxspan,470-422-0970,Finance,5 Autumn Leaf Drive
+200,Fiveclub,626-878-2936,Technology,176 Bobwhite Center
+201,Abata,248-929-9362,Health Care,885 Lakeland Alley
+202,Skimia,904-809-6512,Finance,1645 Rusk Hill
+203,LiveZ,246-562-7240,n/a,6767 Schiller Plaza
+204,Wikizz,222-333-2834,Consumer Services,362 Carberry Alley
+205,Skidoo,670-893-9713,Capital Goods,4 Debra Avenue
+206,Nlounge,766-913-0758,Consumer Durables,64858 Badeau Alley
+207,Quinu,420-245-9002,Technology,86622 Marcy Avenue
+208,Kwinu,411-945-1052,n/a,792 Shoshone Crossing
+209,Abata,602-377-9395,Basic Industries,6134 Tomscot Lane
+210,Einti,198-750-0572,Finance,815 Roxbury Avenue
+211,Buzzshare,208-165-6648,Consumer Services,6 Weeping Birch Avenue
+212,Mynte,340-379-1054,n/a,9 Arapahoe Pass
+213,InnoZ,489-661-1481,Consumer Services,0721 Lukken Junction
+214,Flipbug,951-446-9194,Health Care,6 Lakeland Point
+215,Divape,767-333-0327,Capital Goods,8 Starling Point
+216,Oodoo,286-293-6629,Finance,94068 Mockingbird Center
+217,Mita,924-758-7744,Consumer Services,908 Graedel Plaza
+218,Demivee,154-398-4057,Technology,51884 Valley Edge Place
+219,Kwinu,276-629-1817,Finance,5 Texas Trail
+220,Topicshots,403-818-6726,Consumer Services,2 Ronald Regan Drive
+221,Mita,531-404-5251,Basic Industries,8 Kings Court
+222,Feedfire,146-938-3819,Finance,10 Elgar Court
+223,Jabberstorm,379-900-4583,Health Care,058 Portage Street
+224,Wordpedia,996-760-3434,n/a,89708 Calypso Lane
+225,Blogspan,432-378-6448,Consumer Services,38437 Sundown Center
+226,Babbleblab,701-407-9556,Consumer Services,12314 Jackson Park
+227,DabZ,390-902-3928,Public Utilities,7 Pankratz Plaza
+228,Wikido,917-221-2877,Basic Industries,9 Morningstar Plaza
+229,Kayveo,998-402-4384,Finance,20 Veith Center
+230,Gevee,555-535-3098,n/a,609 Spenser Alley
+231,Geba,114-703-9261,Energy,5663 Morning Trail
+232,Vitz,195-635-7614,Health Care,7328 Quincy Court
+233,Twimbo,849-747-3214,n/a,85282 Blue Bill Park Street
+234,Jaxworks,231-136-4771,Public Utilities,9 Dexter Avenue
+235,Viva,173-747-8117,Transportation,252 Declaration Trail
+236,Aibox,559-107-9891,Consumer Services,80 Hoard Parkway
+237,Leexo,660-420-0958,n/a,5914 Glendale Drive
+238,Vinder,527-297-7930,Consumer Non-Durables,15 Westerfield Place
+239,Skimia,620-905-2218,Basic Industries,110 Vera Crossing
+240,Yodoo,164-658-2303,Consumer Non-Durables,765 Vera Alley
+241,Youfeed,760-621-6266,Consumer Services,95482 Raven Park
+242,Rhynoodle,730-234-6025,n/a,725 Oakridge Junction
+243,Mydeo,686-470-5937,Energy,74353 Independence Court
+244,Quatz,545-381-3693,Energy,43 Emmet Place
+245,Mynte,690-220-0536,Health Care,6 Springs Court
+246,Devpoint,612-147-7628,Capital Goods,654 Susan Plaza
+247,Skinte,210-356-9064,Basic Industries,7586 Anniversary Alley
+248,Quinu,976-940-5959,Public Utilities,0063 Brown Lane
+249,Skiptube,501-569-0812,Finance,16012 Meadow Valley Street
+250,Oyondu,841-936-3959,Capital Goods,914 Jenna Way
+251,Podcat,803-482-0132,n/a,280 Londonderry Trail
+252,Dabtype,449-275-8420,Public Utilities,8 Fisk Place
+253,Rhyloo,276-728-5780,Public Utilities,652 Comanche Court
+254,Eare,892-941-7020,n/a,1 Knutson Junction
+255,Fivechat,649-668-8943,Basic Industries,54 Randy Pass
+256,Avamba,655-148-9460,Technology,9589 3rd Circle
+257,Topicblab,138-246-9591,Technology,36330 Buhler Center
+258,Babblestorm,831-197-9652,Energy,911 Briar Crest Hill
+259,Camimbo,259-682-4728,Health Care,145 Orin Terrace
+260,Skilith,594-362-8797,Miscellaneous,98 Briar Crest Street
+261,Bubblemix,303-419-8041,Consumer Services,35043 Fairfield Court
+262,Photojam,164-749-6122,Consumer Durables,2 Buena Vista Place
+263,Blognation,449-520-6615,Consumer Non-Durables,387 Continental Alley
+264,Eamia,873-944-6970,Health Care,5530 Express Crossing
+265,LiveZ,744-604-3283,Health Care,80250 Oxford Trail
+266,Eidel,703-504-3122,Basic Industries,20668 Dottie Street
+267,Blogtags,127-835-7831,Consumer Durables,2219 Hoepker Court
+268,Meetz,327-390-5351,Public Utilities,3290 Briar Crest Park
+269,Podcat,213-768-8784,n/a,98416 Jay Court
+270,Kayveo,376-760-6116,Finance,492 Welch Point
+271,Demimbu,898-702-1344,Health Care,0 Corry Parkway
+272,Feedfire,691-399-6434,Consumer Services,8810 Nelson Center
+273,Kwilith,556-416-7475,Consumer Non-Durables,2 Butterfield Hill
+274,Vinte,685-706-4744,n/a,0 North Road
+275,Kazio,900-731-9642,Finance,1 Pleasure Lane
+276,Browseblab,283-569-8582,Energy,171 Bobwhite Circle
+277,Pixoboo,747-908-1084,Technology,1 Jackson Way
+278,Bluezoom,485-345-0098,Finance,88 Schmedeman Point
+279,Meevee,277-598-2632,Health Care,9039 Tennessee Trail
+280,Tanoodle,597-717-6592,Health Care,67 Lunder Junction
+281,Skibox,450-843-0523,Energy,69620 Sutteridge Center
+282,Tagcat,872-110-0111,Consumer Services,39948 Crest Line Alley
+283,Dabvine,677-192-5477,n/a,582 Meadow Vale Court
+284,Flipopia,357-391-0013,Finance,3031 Vahlen Parkway
+285,Jabbertype,507-187-5099,n/a,78 Hollow Ridge Parkway
+286,Fliptune,576-511-6260,n/a,3 Green Ridge Lane
+287,Wikido,375-769-6071,Technology,946 Manley Court
+288,Aimbo,303-115-1706,n/a,14903 Stephen Avenue
+289,Kaymbo,548-775-1797,n/a,43 Lotheville Trail
+290,Topicstorm,498-645-6780,Finance,23 Spaight Crossing
+291,Livepath,750-998-0820,Technology,661 Blue Bill Park Plaza
+292,Quinu,356-658-4959,Basic Industries,7 Amoth Junction
+293,Yodoo,955-164-9792,Finance,12803 Melby Point
+294,Avamba,554-599-9170,Basic Industries,15910 Milwaukee Place
+295,Mynte,704-706-7633,n/a,2 Trailsway Avenue
+296,Npath,562-856-6779,Technology,5249 Sheridan Crossing
+297,Voolith,714-938-5439,Consumer Non-Durables,168 Dennis Center
+298,Shufflester,801-670-2952,Finance,27 Clemons Place
+299,Mita,570-853-7768,Consumer Durables,64 Grim Crossing
+300,Lazzy,515-441-1934,Technology,3 Warrior Way
+301,Jatri,190-587-9713,Finance,817 Forest Dale Crossing
+302,Quatz,681-664-8415,Consumer Non-Durables,70 Mayfield Plaza
+303,Eimbee,282-486-4234,n/a,681 Rutledge Crossing
+304,Babbleopia,228-192-3539,Finance,2 Bunker Hill Plaza
+305,Brightbean,351-695-6591,n/a,6 Comanche Park
+306,Edgeclub,710-817-3248,Basic Industries,1 Eagle Crest Place
+307,Thoughtblab,353-826-1909,Public Utilities,12 Kennedy Park
+308,Yadel,762-656-1222,Capital Goods,09367 Butternut Park
+309,Edgeclub,210-137-1127,n/a,8 Sundown Alley
+310,Livetube,253-147-2476,Health Care,74 Park Meadow Trail
+311,Buzzdog,843-963-1010,Basic Industries,199 Thompson Parkway
+312,Meeveo,786-582-0323,Finance,4097 Meadow Vale Avenue
+313,Quamba,802-383-2148,Health Care,4973 Oak Avenue
+314,Yakitri,899-177-5262,n/a,36 Lawn Crossing
+315,Zoomdog,333-823-0571,Finance,08 Hanover Road
+316,Jaxbean,778-998-3941,Technology,20 Darwin Avenue
+317,Gigabox,484-501-4411,Capital Goods,20 Waxwing Junction
+318,Fadeo,628-641-5723,Finance,05 Lunder Crossing
+319,Pixonyx,936-628-3402,Technology,5549 Oak Place
+320,Jetpulse,847-976-8695,Health Care,21457 Pine View Parkway
+321,Youspan,414-247-2804,Finance,9988 Autumn Leaf Pass
+322,Skaboo,707-195-5529,Finance,1713 Redwing Place
+323,Roomm,195-117-1915,n/a,9845 Brown Circle
+324,Mita,855-216-6242,Public Utilities,36494 Pepper Wood Road
+325,Realblab,557-926-4238,Consumer Services,340 Talmadge Park
+326,Thoughtbridge,925-503-4688,Health Care,2934 5th Circle
+327,Blogspan,294-106-8617,n/a,69399 Anthes Road
+328,Topiclounge,691-116-0530,Consumer Non-Durables,62 Packers Place
+329,Jabbercube,344-350-1190,n/a,96 Bayside Lane
+330,Mydo,136-837-4115,n/a,1446 Nevada Road
+331,Zoombox,947-579-7303,Basic Industries,81 Canary Lane
+332,Devpoint,423-974-7880,n/a,211 Crest Line Pass
+333,Trupe,206-710-7018,Consumer Services,2 Eagle Crest Crossing
+334,Yombu,482-712-8734,Health Care,74561 Pleasure Trail
+335,Snaptags,471-142-2312,Consumer Services,7335 Ridgeview Place
+336,Yakitri,512-408-3268,Transportation,123 Oneill Lane
+337,Zoomcast,586-424-1245,n/a,8 New Castle Avenue
+338,Meevee,807-443-8962,Energy,183 Village Green Lane
+339,Thoughtsphere,656-771-4494,Finance,012 Welch Circle
+340,Geba,136-934-8788,Consumer Services,24495 Rutledge Avenue
+341,Riffpedia,787-175-2547,Consumer Services,21 Milwaukee Court
+342,Zoomcast,830-246-1726,Finance,34 Boyd Place
+343,Twitterworks,101-942-3024,Finance,050 Schurz Court
+344,Meezzy,764-408-5776,Consumer Durables,4 Thompson Hill
+345,Wikizz,883-316-5707,Technology,7207 Commercial Hill
+346,Thoughtstorm,705-921-0728,Consumer Services,3803 Maryland Point
+347,Divanoodle,710-186-1925,Finance,76 Superior Plaza
+348,Edgewire,323-716-9580,n/a,6591 Walton Alley
+349,Kare,212-763-6639,Energy,3 Melrose Alley
+350,Linklinks,220-792-7178,Consumer Services,310 Montana Street
+351,Quimm,901-506-3963,n/a,91635 Farwell Plaza
+352,Voomm,375-185-8108,Health Care,0 Scoville Drive
+353,Oyope,204-435-7233,Health Care,53537 Springview Pass
+354,Pixonyx,114-538-7567,Energy,2705 Blue Bill Park Street
+355,Zava,906-317-3603,Finance,350 Bonner Alley
+356,Chatterpoint,912-294-6505,Basic Industries,452 Troy Place
+357,Browsecat,513-253-9103,Consumer Non-Durables,57899 Sunbrook Point
+358,Edgewire,106-561-1346,Public Utilities,8413 Manitowish Trail
+359,Tagfeed,211-474-0548,Consumer Non-Durables,3 Monterey Hill
+360,Mynte,730-888-2175,n/a,96 Northfield Crossing
+361,Feedfish,371-739-3140,n/a,76495 Manufacturers Parkway
+362,Aibox,529-826-2424,Consumer Services,155 Mandrake Crossing
+363,Eamia,382-859-1186,Finance,042 Monterey Crossing
+364,Eayo,799-150-8748,Health Care,85 Crest Line Road
+365,Agimba,308-375-8092,n/a,06839 Melby Hill
+366,Meejo,241-418-8667,Public Utilities,2902 Northridge Lane
+367,Yotz,978-115-7355,Technology,683 Elka Parkway
+368,Trupe,378-909-6760,Health Care,36 Saint Paul Park
+369,Mydeo,641-511-4763,Health Care,1 Westend Place
+370,Trilith,134-631-6785,Technology,0 Hollow Ridge Pass
+371,Wikizz,250-983-0431,Consumer Services,07057 Anzinger Circle
+372,Innotype,268-843-8138,n/a,9 New Castle Place
+373,Zooveo,905-825-3656,Finance,12 Del Mar Pass
+374,Kwideo,486-113-6818,Finance,52 Namekagon Drive
+375,Vidoo,786-140-6692,Public Utilities,9864 Doe Crossing Circle
+376,Lajo,234-253-1622,Finance,52 Tony Point
+377,Quamba,489-274-6141,Energy,042 Colorado Terrace
+378,Trilith,600-152-5162,n/a,9 Graceland Way
+379,Zoozzy,530-851-0242,n/a,71093 Kenwood Point
+380,Oyonder,929-155-5098,Consumer Durables,2 Manitowish Alley
+381,Skipstorm,421-363-5863,n/a,1 Hoffman Center
+382,Gabcube,100-437-8626,Miscellaneous,06 Helena Plaza
+383,Oyondu,223-300-6843,Health Care,554 Briar Crest Avenue
+384,Topicshots,285-876-2354,Finance,11275 Fallview Place
+385,Rhyzio,384-377-6859,Health Care,2702 Cottonwood Way
+386,Linkbuzz,391-846-8714,n/a,386 Doe Crossing Terrace
+387,Skinte,885-225-0897,Public Utilities,4915 Loeprich Road
+388,Podcat,630-976-4460,Health Care,0 Old Shore Drive
+389,Realpoint,746-224-4340,Finance,41417 Golf Place
+390,Twiyo,913-115-6919,Consumer Durables,831 Luster Trail
+391,BlogXS,249-645-2723,Consumer Services,0 Swallow Hill
+392,Oyoyo,414-221-6440,Public Utilities,092 Nancy Place
+393,Skipstorm,442-296-9872,Technology,962 Debs Drive
+394,Kwideo,749-465-8306,Capital Goods,1270 Main Circle
+395,Kimia,361-746-3762,Technology,69162 Carey Terrace
+396,Myworks,656-812-6248,Consumer Services,0662 Cambridge Way
+397,Brainbox,468-743-3533,Technology,1 Rieder Crossing
+398,Blognation,399-610-9543,n/a,70575 Village Circle
+399,Fivebridge,331-585-2146,n/a,7 Carpenter Court
+400,Ailane,625-873-1643,Health Care,6503 Scoville Plaza
+401,Chatterpoint,641-558-5306,Basic Industries,20292 Dovetail Crossing
+402,Jabberstorm,983-822-4688,Consumer Services,157 Fairfield Pass
+403,Topicblab,574-624-1175,Technology,56571 Forest Run Center
+404,Dynabox,629-271-2104,Consumer Services,89 Division Way
+405,Skyba,853-382-8627,Technology,052 Monument Hill
+406,Thoughtworks,287-822-4034,Basic Industries,82 Homewood Center
+407,Skajo,825-645-2848,n/a,7 Little Fleur Street
+408,Jaxnation,893-227-4996,n/a,721 Tennessee Park
+409,Skippad,646-143-9730,Consumer Services,62 Duke Parkway
+410,Mudo,193-303-5226,n/a,88 Judy Point
+411,Ainyx,424-897-1107,n/a,96 Oak Alley
+412,Dabvine,670-915-5252,n/a,1160 Cody Alley
+413,Chatterbridge,680-308-6303,Transportation,15 Service Court
+414,Zoomzone,159-106-8335,Finance,9437 Ronald Regan Terrace
+415,Tagfeed,357-343-5613,n/a,5 Kings Parkway
+416,Vipe,951-268-6852,Technology,52 Briar Crest Trail
+417,Digitube,338-926-6898,n/a,0302 Tony Pass
+418,Eayo,581-688-0664,Consumer Services,7 Paget Street
+419,Buzzdog,318-972-5962,n/a,91568 Old Shore Point
+420,Flipstorm,712-272-2090,Technology,41 Ridgeview Park
+421,Twimm,567-444-3568,Basic Industries,6067 Emmet Way
+422,Twitterlist,786-335-0863,n/a,479 Carpenter Junction
+423,Jetpulse,686-123-5813,n/a,7 Arizona Alley
+424,Yakijo,887-289-6870,Consumer Services,5888 Evergreen Avenue
+425,Skinte,198-267-3308,n/a,337 Fulton Road
+426,Meeveo,881-886-0501,n/a,77 Emmet Center
+427,Flashpoint,411-913-8600,Consumer Non-Durables,076 Ridge Oak Alley
+428,Avamm,816-604-0048,Consumer Services,5 Calypso Trail
+429,Buzzbean,584-109-3482,Technology,9 Brown Drive
+430,Yombu,299-223-3991,Capital Goods,0568 Rusk Court
+431,Jayo,435-630-2004,Technology,42772 Cascade Street
+432,Muxo,964-546-6938,Public Utilities,86 Oxford Circle
+433,Jaxspan,211-252-7593,Capital Goods,8674 Schiller Center
+434,Yozio,628-851-3578,Consumer Services,10890 School Place
+435,Divanoodle,767-182-6247,Consumer Services,9 Main Way
+436,Voolith,850-430-0100,Technology,18003 Kennedy Circle
+437,Photobug,611-738-0679,Finance,717 Butterfield Plaza
+438,Meezzy,750-807-1986,n/a,8498 Rowland Way
+439,Jabbersphere,697-757-3936,Miscellaneous,0652 Oakridge Way
+440,Aivee,881-119-6850,Health Care,95 Truax Avenue
+441,Meeveo,548-485-7669,Basic Industries,2 Reindahl Crossing
+442,Wikizz,848-920-5280,n/a,43162 Vermont Park
+443,Browsezoom,315-172-6573,Basic Industries,674 Elka Drive
+444,Dabvine,865-620-3653,Consumer Services,4 Dayton Circle
+445,Blogtags,816-957-3863,Health Care,96 Nevada Alley
+446,Aimbu,502-948-1298,n/a,9 Nova Alley
+447,Myworks,372-277-6294,n/a,1 Sullivan Pass
+448,JumpXS,824-864-4894,n/a,2959 Leroy Trail
+449,Demizz,931-758-7506,n/a,666 Charing Cross Lane
+450,Skidoo,763-833-6021,Basic Industries,65 Lakewood Circle
+451,Kimia,492-438-2639,Transportation,650 Red Cloud Lane
+452,Demivee,491-649-8978,n/a,02 Scofield Crossing
+453,Geba,366-208-7791,Finance,1 Eliot Plaza
+454,Voolia,503-451-1430,Health Care,7939 Graceland Center
+455,Bubblebox,856-223-4064,Consumer Non-Durables,1836 Forest Dale Court
+456,Jaloo,179-102-0393,Finance,84328 Havey Center
+457,Gabtune,696-574-8836,n/a,9977 Helena Terrace
+458,Tagchat,891-641-7010,n/a,5 Arapahoe Park
+459,Yacero,148-944-3002,Health Care,55411 Canary Way
+460,Quire,575-459-6445,Technology,02 Ilene Court
+461,Kayveo,439-971-1026,Capital Goods,55 David Terrace
+462,Layo,396-301-4790,Finance,03557 Maple Point
+463,Zooxo,379-946-9502,Miscellaneous,399 Stone Corner Parkway
+464,Jamia,812-109-7030,n/a,4539 Spaight Junction
+465,Twitterlist,145-360-8643,Consumer Non-Durables,50398 Kipling Alley
+466,Ntags,590-342-5619,Finance,1 Kennedy Road
+467,Ailane,188-379-5432,n/a,7 Kim Way
+468,Meembee,551-408-3693,Public Utilities,07 Prairie Rose Trail
+469,Jetpulse,746-856-9741,Miscellaneous,82 Tennessee Hill
+470,Meetz,339-262-9728,Consumer Non-Durables,3200 Rieder Avenue
+471,Photobug,146-109-3573,n/a,26335 La Follette Trail
+472,Livetube,451-644-1537,Technology,2081 Main Drive
+473,Realbuzz,410-225-6406,Public Utilities,32 Iowa Court
+474,Trilia,920-874-9306,n/a,06505 Canary Parkway
+475,Rooxo,824-564-9206,n/a,0296 Artisan Park
+476,Quamba,968-949-2334,Capital Goods,87916 Stuart Park
+477,Wikivu,752-330-7579,Finance,6 Lindbergh Crossing
+478,Wikibox,867-650-2021,Consumer Non-Durables,1859 Laurel Terrace
+479,Pixope,123-929-7720,n/a,568 Burrows Crossing
+480,Oyope,690-990-6502,Energy,71668 Veith Crossing
+481,Ooba,898-544-1394,Health Care,8418 Warner Junction
+482,Yombu,800-125-3438,n/a,6 Fremont Park
+483,Leenti,625-948-8762,Health Care,4 Service Crossing
+484,Lajo,526-700-5336,Finance,742 La Follette Junction
+485,Twimbo,413-796-1671,Public Utilities,53 Sutherland Terrace
+486,Jabbersphere,174-187-3607,Basic Industries,1 Lunder Way
+487,Vipe,770-552-2367,Health Care,8818 Parkside Alley
+488,Jabbersphere,157-187-0872,Consumer Services,65861 Duke Road
+489,Brightbean,528-123-5445,Consumer Non-Durables,8838 2nd Place
+490,Cogidoo,410-169-8077,Public Utilities,5 Jackson Alley
+491,Oozz,129-393-0435,Public Utilities,5 Wayridge Drive
+492,Brainverse,616-762-4612,n/a,626 Hermina Junction
+493,Zava,626-240-5648,n/a,39 Green Parkway
+494,Yakidoo,528-107-9379,Finance,18586 Kennedy Parkway
+495,Tagfeed,816-971-9510,Health Care,7 Straubel Hill
+496,Skyble,230-899-0733,n/a,218 Nancy Parkway
+497,Tekfly,765-647-0469,Capital Goods,15 Spenser Parkway
+498,Jatri,604-362-6447,Finance,931 Harper Point
+499,Fiveclub,700-431-5629,Health Care,54779 Linden Point
+500,Voolith,496-892-4108,Consumer Services,79 Nelson Road
+501,Fivebridge,414-562-8425,Consumer Non-Durables,20 Hoepker Avenue
+502,Flipbug,670-248-3806,Basic Industries,852 Park Meadow Drive
+503,Dynabox,317-136-3973,n/a,296 John Wall Crossing
+504,Cogilith,890-848-0667,Health Care,81496 Carpenter Park
+505,Zoombox,998-889-8870,Public Utilities,2 Union Center
+506,Twimbo,161-754-7320,Finance,18 Rowland Road
+507,Yambee,344-802-6039,Health Care,007 Melrose Lane
+508,Flipbug,454-688-2302,Energy,59 Vermont Circle
+509,Fivechat,872-895-9987,n/a,51987 Havey Avenue
+510,Gevee,125-476-1610,Technology,4 Mitchell Plaza
+511,Kamba,178-813-2124,Finance,39256 Arapahoe Court
+512,Leexo,218-680-5553,n/a,7 Almo Circle
+513,Dynabox,192-276-0022,Basic Industries,3663 Debs Road
+514,Shufflester,892-502-4992,Miscellaneous,227 Arapahoe Pass
+515,Kwimbee,578-246-3182,Public Utilities,8 Old Gate Trail
+516,Oyoyo,131-605-1431,n/a,37680 Carberry Alley
+517,Brainverse,454-964-1730,Consumer Services,51 Twin Pines Alley
+518,Brainlounge,503-181-5819,Finance,4279 Dorton Street
+519,Twinte,423-670-5315,Consumer Non-Durables,260 Moose Lane
+520,Skynoodle,167-792-4360,Consumer Services,08 Morningstar Pass
+521,Skivee,156-225-3468,Finance,47 Crescent Oaks Hill
+522,Skyndu,248-318-1767,n/a,69893 Raven Road
+523,Eayo,147-743-6734,Transportation,050 Grayhawk Crossing
+524,Devbug,923-836-3246,Energy,39116 Bunker Hill Hill
+525,Katz,607-761-6373,n/a,582 Stephen Hill
+526,Skaboo,104-391-5986,Finance,50576 Messerschmidt Point
+527,Realpoint,102-915-9285,Finance,4391 Killdeer Circle
+528,Quamba,208-914-0309,Finance,7556 Dennis Pass
+529,Browsetype,467-837-8114,Consumer Services,8170 Roxbury Park
+530,Kwideo,830-117-9564,Consumer Services,27 Merry Center
+531,Brainsphere,329-548-3343,Capital Goods,733 David Alley
+532,Skalith,319-998-8105,Capital Goods,1 Del Mar Circle
+533,Photobug,765-756-7292,Public Utilities,29296 Truax Street
+534,Oyoba,653-364-7560,Consumer Durables,69 Blaine Terrace
+535,Avamba,613-829-0942,Finance,012 Randy Drive
+536,Bluezoom,987-758-5020,Technology,29 Southridge Lane
+537,Gabvine,346-634-2261,Consumer Services,2 Shoshone Junction
+538,Demivee,659-125-1220,Public Utilities,414 Troy Center
+539,Browsecat,931-123-0783,n/a,56134 Banding Way
+540,Yozio,993-943-5983,n/a,3439 Crest Line Street
+541,Wikivu,153-835-9215,Finance,0017 Cambridge Street
+542,Dabshots,106-187-6998,Energy,85 Southridge Way
+543,Shuffletag,357-158-7273,Capital Goods,03590 Mesta Avenue
+544,Thoughtbridge,517-395-4192,Miscellaneous,8344 Hanson Drive
+545,Voomm,446-903-4749,Consumer Services,4840 Hansons Parkway
+546,Vidoo,331-306-8896,n/a,9 Hanover Crossing
+547,Avaveo,106-517-0994,Health Care,390 Maple Road
+548,Wordify,983-799-3510,Transportation,9526 Forest Park
+549,Jabbertype,831-589-5216,Consumer Services,5890 Hallows Trail
+550,Babbleset,567-195-5098,Technology,8 Scott Crossing
+551,Photojam,790-315-9021,Health Care,8 Mcguire Hill
+552,Quire,964-607-4670,n/a,08138 Cody Crossing
+553,Yamia,923-102-0990,Finance,12 Westend Place
+554,Oozz,597-497-8667,Consumer Services,923 Logan Point
+555,Oyonder,264-576-7198,Basic Industries,0420 Oak Parkway
+556,Ntag,111-691-7373,Consumer Services,734 Burrows Point
+557,Flipstorm,956-118-8364,Finance,4830 Forster Parkway
+558,Yambee,517-105-1326,Finance,9103 Redwing Parkway
+559,Topicshots,424-174-1240,Health Care,58208 Northridge Avenue
+560,Mynte,696-952-5168,Consumer Durables,85 Sunnyside Junction
+561,Yacero,758-914-9171,Health Care,5376 Kingsford Avenue
+562,Dynabox,274-269-4459,Consumer Services,867 Sutteridge Lane
+563,Babbleblab,529-403-5577,Finance,77533 Milwaukee Trail
+564,Dabvine,472-857-5406,Health Care,5 Maple Trail
+565,Riffwire,826-724-1600,Public Utilities,3 Golden Leaf Plaza
+566,Quinu,679-195-1757,Technology,5 Carioca Plaza
+567,Buzzdog,534-642-0878,Health Care,6 Rieder Avenue
+568,Skyvu,929-779-1912,Capital Goods,61 Maple Plaza
+569,Twitterbridge,146-685-0352,Energy,414 Bartelt Drive
+570,Flipstorm,214-484-0167,Transportation,45 Weeping Birch Trail
+571,Ailane,828-103-3214,Miscellaneous,678 Shopko Point
+572,Wikido,548-606-9009,Finance,97 Eagle Crest Terrace
+573,Lazzy,355-558-7980,Health Care,7419 Fisk Road
+574,Mybuzz,763-182-4227,Technology,088 Maryland Plaza
+575,Mynte,995-850-9578,Health Care,78 Hansons Circle
+576,Thoughtmix,598-359-4626,Finance,246 Fairfield Trail
+577,Twimbo,553-531-1014,Consumer Services,3 Mockingbird Point
+578,Quire,458-808-1958,Health Care,523 Manitowish Terrace
+579,Voonder,739-972-2555,Consumer Services,0594 Eagan Lane
+580,Kaymbo,645-994-4738,n/a,87 Division Park
+581,Avamba,839-494-8065,Finance,41 Maryland Drive
+582,Tazz,524-927-6499,n/a,97014 Lake View Trail
+583,Gigabox,741-456-5299,n/a,9396 Twin Pines Park
+584,Jabberbean,710-868-9427,Technology,88 Swallow Pass
+585,Mynte,901-622-6708,Basic Industries,13726 Upham Center
+586,Photofeed,264-196-7293,n/a,627 Arrowood Hill
+587,Tagchat,257-916-4332,Health Care,69 Birchwood Plaza
+588,Kamba,964-695-3749,n/a,15 David Court
+589,Myworks,841-290-3913,Public Utilities,87382 Badeau Terrace
+590,Browseblab,800-743-9301,Consumer Services,0 Anhalt Parkway
+591,Thoughtsphere,640-893-1474,n/a,7086 Morning Plaza
+592,Talane,405-569-7826,n/a,30721 Mayfield Street
+593,Yambee,507-214-6447,Health Care,499 Summer Ridge Point
+594,Pixonyx,467-291-0553,Transportation,1 Nova Drive
+595,Jazzy,120-867-8422,Energy,482 Doe Crossing Lane
+596,Avavee,315-260-2403,Technology,099 Schmedeman Center
+597,Zava,356-657-2740,Finance,8 Johnson Terrace
+598,Skyvu,402-215-5785,Technology,7 Ludington Parkway
+599,Eidel,523-304-4004,Technology,44 Talisman Trail
+600,Zoozzy,397-882-1121,Technology,6946 Ridgeview Junction
+601,Jabberbean,509-390-7795,Energy,5717 Rowland Way
+602,Buzzbean,294-297-9281,Technology,148 6th Avenue
+603,Youfeed,894-819-2865,n/a,609 Hoard Way
+604,Avamm,467-364-7832,Health Care,5988 Raven Park
+605,Roodel,810-959-9765,Transportation,98709 Pearson Terrace
+606,Photojam,316-973-5454,Finance,786 Dakota Way
+607,Gigabox,925-683-1701,Technology,2582 Blackbird Court
+608,Trudeo,489-424-9049,n/a,3226 Thompson Hill
+609,Blogspan,471-939-6013,Transportation,8 Fremont Center
+610,Quire,867-706-7592,n/a,127 Bobwhite Park
+611,Realpoint,142-644-1019,n/a,2010 Laurel Terrace
+612,Jaxbean,834-339-6457,Capital Goods,4 Bunker Hill Pass
+613,Meedoo,397-161-9502,Finance,49039 Graceland Center
+614,Trilia,212-337-9444,Consumer Services,00713 Everett Plaza
+615,Vitz,690-798-4123,Technology,18 Union Street
+616,Blogtag,186-730-8173,Basic Industries,014 Tony Drive
+617,Katz,839-103-9832,Health Care,25 Aberg Point
+618,Realfire,277-422-6832,Consumer Services,24658 Thackeray Alley
+619,Mycat,327-872-9367,n/a,2210 Scoville Park
+620,Twitterlist,256-649-1096,Technology,8677 Vidon Drive
+621,Riffpedia,686-597-7058,Energy,55407 Warbler Junction
+622,Mymm,365-997-0235,Finance,8 Texas Terrace
+623,Photobug,547-841-3870,Consumer Services,33 Bonner Court
+624,Plajo,315-961-1584,Finance,6464 Butternut Crossing
+625,Quaxo,279-971-7492,n/a,72948 Kennedy Park
+626,Brightbean,776-213-5376,Transportation,2 Sloan Drive
+627,Wordify,987-280-7602,Finance,21 Esch Hill
+628,Rhynyx,273-699-1885,Consumer Services,10 Pond Crossing
+629,Skalith,742-571-5885,Consumer Services,34 Hanover Plaza
+630,Kazio,989-200-4614,Consumer Services,51004 Saint Paul Crossing
+631,Flipbug,314-850-4974,Technology,61885 Johnson Road
+632,Cogilith,359-219-3359,Consumer Services,2 David Road
+633,Podcat,711-660-1732,Capital Goods,79 Corben Road
+634,Twimm,906-663-9170,Transportation,2 Merry Junction
+635,Divape,190-152-2558,Basic Industries,0 Shelley Road
+636,Brightbean,281-978-5206,Health Care,894 Declaration Avenue
+637,Edgewire,359-813-1272,Miscellaneous,8009 Lukken Pass
+638,Trudeo,343-335-1306,Technology,29 Leroy Trail
+639,Gabvine,695-525-9174,Miscellaneous,362 Monterey Way
+640,Trilia,383-792-0277,n/a,39890 Aberg Terrace
+641,Gigashots,252-870-2192,n/a,8 Southridge Road
+642,Yodel,490-264-6107,Finance,43097 Corry Alley
+643,Flipstorm,972-726-8807,Public Utilities,334 Hanson Road
+644,Edgeify,342-389-7685,Basic Industries,0 Fuller Lane
+645,Yodo,930-779-1154,n/a,368 Gerald Court
+646,Dabvine,796-288-5345,Finance,10 Morrow Crossing
+647,Bubbletube,234-986-1933,Health Care,4510 Merchant Court
+648,Mydo,247-572-1412,Technology,8561 Fremont Way
+649,Jaxworks,759-545-3002,Energy,5313 Pearson Lane
+650,Voonix,119-761-8250,Finance,9 Anniversary Terrace
+651,Camido,272-812-5002,n/a,411 Carberry Court
+652,Mybuzz,281-874-9699,Technology,95 Northport Center
+653,Gigabox,151-574-8595,Technology,45504 Dunning Hill
+654,Eayo,277-940-7241,Energy,54 Susan Drive
+655,Tagfeed,428-206-3137,Transportation,65 Melrose Avenue
+656,Avamba,591-151-8174,n/a,87 Quincy Crossing
+657,Dabvine,935-911-5229,Finance,14574 Bayside Street
+658,Edgeify,374-999-0004,Basic Industries,725 Fairview Parkway
+659,Lajo,558-936-2909,Finance,0333 Tennessee Terrace
+660,Skyvu,492-704-1230,n/a,7 Pawling Court
+661,Tazz,141-241-6898,n/a,1 Bobwhite Circle
+662,Avavee,411-916-5898,Consumer Services,71254 Rusk Hill
+663,Dabvine,410-901-4172,n/a,6116 Hanson Point
+664,Kayveo,335-448-8118,Consumer Non-Durables,71 Spenser Parkway
+665,Photojam,446-210-7485,n/a,7519 Pearson Lane
+666,Kare,778-348-8789,Basic Industries,146 Golf Court
+667,Omba,516-214-0929,Basic Industries,3 Magdeline Pass
+668,Yamia,345-553-2636,Finance,7734 Burning Wood Drive
+669,Layo,280-912-3212,Capital Goods,6032 Superior Street
+670,Camimbo,228-483-5067,Energy,715 Warrior Drive
+671,Jaxnation,422-543-5721,Consumer Durables,07 Corscot Street
+672,Avavee,979-561-1159,Finance,0 Hollow Ridge Point
+673,Zoomzone,392-897-7347,Finance,584 Gateway Drive
+674,Devpoint,756-211-8699,Finance,913 Mifflin Road
+675,Thoughtsphere,804-789-0587,Capital Goods,2742 Schiller Lane
+676,Rhynyx,668-395-1951,Consumer Services,23567 Jay Park
+677,Quinu,819-102-3406,Technology,8 Stoughton Way
+678,Gabvine,899-736-9243,n/a,84426 Sachtjen Avenue
+679,Flipopia,102-663-4422,Finance,7 Maryland Plaza
+680,Camimbo,958-981-7404,Finance,3 Lyons Plaza
+681,Gabtype,490-417-7252,Capital Goods,0866 Eggendart Trail
+682,Thoughtblab,662-397-7707,Consumer Services,589 Goodland Park
+683,Eazzy,241-931-2513,n/a,03723 Northridge Point
+684,Pixope,978-814-7566,Health Care,03008 Florence Drive
+685,Muxo,768-811-9884,Finance,72068 Toban Center
+686,Eazzy,865-262-4581,n/a,3725 Di Loreto Road
+687,Babblestorm,903-858-4156,Technology,9491 Comanche Drive
+688,Youfeed,324-727-0894,Health Care,7 Tomscot Court
+689,Flashpoint,232-890-3314,Capital Goods,414 Stephen Court
+690,Minyx,930-307-9268,Finance,47 Spenser Way
+691,Browsedrive,751-611-0771,Capital Goods,9222 Almo Drive
+692,Gabtype,400-767-6583,n/a,5 Chinook Crossing
+693,Kanoodle,581-612-8670,n/a,483 Carpenter Lane
+694,Meezzy,985-988-7345,Finance,1259 Spenser Road
+695,Aivee,397-487-3248,Health Care,5040 Ridge Oak Lane
+696,Rooxo,272-202-9364,n/a,60 Glacier Hill Point
+697,Tavu,632-742-9110,Energy,43 Beilfuss Trail
+698,Quimm,493-350-7773,Consumer Durables,98 Shasta Plaza
+699,Tagtune,174-543-6317,Health Care,6760 Warner Road
+700,Plambee,641-476-4467,Finance,8 Hauk Court
+701,Eamia,248-557-3970,Capital Goods,5 Troy Park
+702,Youspan,519-916-5886,Consumer Non-Durables,90949 Lukken Crossing
+703,Dabvine,352-625-5666,Transportation,1813 Elgar Parkway
+704,Skinte,883-678-0212,n/a,6 Farmco Avenue
+705,Kayveo,585-413-5531,Technology,278 Manley Parkway
+706,Aimbo,131-290-5650,n/a,3 Corry Way
+707,Yata,533-841-6770,Miscellaneous,44882 Sugar Point
+708,Muxo,821-884-1707,Public Utilities,1 Rieder Street
+709,Trudeo,945-516-1190,Consumer Services,6 Milwaukee Trail
+710,Skivee,579-795-3504,Capital Goods,50 Golf Plaza
+711,Oyoyo,135-725-6400,n/a,7488 Hoepker Parkway
+712,Rhybox,796-652-8699,Health Care,80853 Waxwing Center
+713,Photofeed,242-311-8799,n/a,85 Derek Alley
+714,Gabvine,951-446-0077,Health Care,5 Roxbury Drive
+715,Zoomcast,510-634-8016,Consumer Non-Durables,13012 Merchant Circle
+716,Topdrive,947-786-9858,Health Care,059 Southridge Junction
+717,Katz,314-241-9885,Consumer Services,69 Darwin Alley
+718,Voolia,475-550-5941,Finance,1 Hudson Trail
+719,Yakijo,495-402-6629,Health Care,661 Valley Edge Hill
+720,Youtags,908-208-8021,Consumer Services,11298 Meadow Vale Point
+721,Zazio,772-988-9832,Health Care,14 Southridge Trail
+722,Edgetag,904-443-0742,n/a,70 Forest Run Terrace
+723,Trunyx,460-841-1129,Technology,84387 Kingsford Park
+724,Kazu,181-362-4513,Consumer Non-Durables,718 Jana Place
+725,Twitternation,357-559-5445,Consumer Services,384 Summit Lane
+726,Oyoyo,989-764-6798,Finance,167 Lawn Avenue
+727,Blogspan,889-993-8367,Public Utilities,4 Columbus Park
+728,Youbridge,235-565-0628,n/a,2424 Graceland Point
+729,Jamia,691-775-7130,n/a,440 Brickson Park Pass
+730,Youspan,213-664-6349,Technology,134 Goodland Road
+731,Skibox,527-908-1993,Capital Goods,2 Erie Alley
+732,Meezzy,681-387-9898,Consumer Services,4 Dunning Terrace
+733,Pixope,696-903-2350,Capital Goods,239 Harbort Plaza
+734,Jaxworks,788-395-0320,n/a,0769 Bellgrove Avenue
+735,Agimba,312-641-9362,Capital Goods,7700 Welch Junction
+736,Tanoodle,752-822-5502,Basic Industries,1 Texas Pass
+737,Realfire,408-494-9964,Consumer Non-Durables,9 Charing Cross Alley
+738,Jabbercube,684-988-1591,n/a,7126 Daystar Court
+739,Tagpad,799-369-8975,Transportation,775 Fisk Court
+740,Voonder,673-445-0141,Finance,5087 Anhalt Place
+741,Zoomzone,428-385-5628,n/a,018 Ryan Terrace
+742,Jetwire,914-849-1738,Finance,3 Crownhardt Court
+743,Fivebridge,338-982-2468,n/a,5 Rowland Pass
+744,Skinder,341-581-6213,Consumer Services,9 Northport Drive
+745,Divape,378-146-8722,n/a,6 Clemons Drive
+746,Edgeclub,349-274-3467,Consumer Services,9876 Haas Alley
+747,Eayo,439-346-3927,n/a,70 Nevada Terrace
+748,Voolia,197-169-8186,Finance,633 Cherokee Crossing
+749,Browsedrive,600-821-0750,Finance,348 1st Road
+750,Blogtags,268-355-7275,Consumer Services,20178 Rowland Crossing
+751,Jayo,191-198-3105,Public Utilities,50208 Glendale Parkway
+752,Skinix,736-354-0631,Energy,739 Pine View Crossing
+753,Trudoo,666-957-9230,Consumer Services,8268 Texas Park
+754,Kwilith,554-307-4337,Technology,16 Waubesa Point
+755,Voonte,551-370-0193,Finance,0 Autumn Leaf Place
+756,Shuffledrive,433-411-3948,Basic Industries,20 Ronald Regan Way
+757,Brainlounge,583-102-8326,Technology,13481 Bellgrove Lane
+758,Edgepulse,807-872-6172,Consumer Non-Durables,36 Westridge Circle
+759,Kamba,866-696-9984,n/a,82 Kropf Pass
+760,Skinix,563-770-1791,Energy,49526 Melrose Junction
+761,Ooba,169-760-6232,Finance,4666 Barnett Way
+762,Jetwire,441-871-4577,n/a,040 Rigney Crossing
+763,Gigaclub,498-850-6568,Health Care,48167 Toban Hill
+764,Brainsphere,253-447-7717,Consumer Services,3597 Evergreen Parkway
+765,Gabcube,717-429-1421,Capital Goods,8 Bay Street
+766,Yodoo,733-155-2855,Transportation,7 Talisman Way
+767,Roombo,306-924-0735,n/a,753 Clarendon Hill
+768,Camimbo,448-615-3213,Health Care,06262 Maryland Hill
+769,Twitterwire,635-248-8169,Health Care,05 Bultman Way
+770,Mynte,942-205-8055,Basic Industries,2713 Longview Trail
+771,Plambee,291-610-9168,n/a,80669 Evergreen Pass
+772,Photobug,467-839-1809,Transportation,7 Mallory Parkway
+773,Wordify,903-448-7274,Finance,3092 Pond Circle
+774,Janyx,478-950-7803,n/a,65554 Orin Avenue
+775,Livetube,863-926-0739,Consumer Non-Durables,66130 Sullivan Street
+776,Realbridge,128-325-5329,Transportation,93 Stoughton Crossing
+777,Vimbo,520-248-9176,Health Care,5005 Vermont Avenue
+778,Zoovu,765-543-9481,Finance,86920 Anhalt Circle
+779,Bluezoom,726-231-9279,Energy,0893 Sommers Parkway
+780,Layo,427-707-7365,Technology,0 Twin Pines Circle
+781,Kwilith,431-310-2324,Energy,0 Schurz Alley
+782,Youspan,104-406-8090,n/a,84019 Farragut Crossing
+783,Kwideo,305-823-8169,n/a,73 Moland Crossing
+784,Babblestorm,414-917-8243,Health Care,464 Holmberg Plaza
+785,Gabcube,173-439-5399,Health Care,61 Lakewood Gardens Alley
+786,Centizu,152-499-4361,Health Care,5 Dovetail Park
+787,Tagcat,813-848-1954,Consumer Services,90405 New Castle Court
+788,Dablist,926-540-5339,Energy,7 Manley Hill
+789,Ntags,172-713-3268,n/a,2658 Shopko Lane
+790,Realblab,375-991-7152,n/a,7914 Charing Cross Pass
+791,Thoughtblab,816-504-2511,n/a,485 Oakridge Center
+792,Photospace,890-547-3569,n/a,6470 Lyons Avenue
+793,Skiba,899-844-2258,Capital Goods,982 High Crossing Circle
+794,Flashspan,971-511-8679,Consumer Non-Durables,80908 Sachs Pass
+795,Fivechat,468-952-0318,Health Care,9 Sage Avenue
+796,Linkbuzz,343-639-7792,n/a,263 Pankratz Alley
+797,Livetube,420-618-9837,n/a,46 Stuart Pass
+798,Pixonyx,303-626-9588,Public Utilities,5019 Hanover Avenue
+799,Avavee,872-402-2004,n/a,64932 Surrey Road
+800,Flipstorm,321-464-9271,Public Utilities,80238 Anzinger Hill
+801,Ailane,776-613-2229,Miscellaneous,6 Stoughton Center
+802,Geba,926-821-4092,Finance,7 Gerald Alley
+803,Centidel,915-143-3468,Energy,7610 Dixon Street
+804,Yozio,806-155-0128,Energy,7990 Iowa Point
+805,Tagopia,360-887-6162,n/a,8 Morningstar Trail
+806,Fadeo,967-871-1203,Consumer Durables,2 Susan Crossing
+807,Tazz,752-795-6829,Capital Goods,1 Johnson Way
+808,Jaxspan,932-461-5811,Consumer Durables,04 Mandrake Trail
+809,Thoughtbeat,745-777-0483,Energy,279 Mccormick Trail
+810,Yata,683-662-4626,Finance,408 Buena Vista Hill
+811,Aimbu,202-666-0197,Finance,7 Manufacturers Park
+812,Pixope,834-391-7522,Technology,00361 Butterfield Avenue
+813,Quimba,800-933-7691,Miscellaneous,71 Eagle Crest Road
+814,Rhynoodle,597-632-5867,Consumer Services,377 Farmco Plaza
+815,Fadeo,593-550-1761,Capital Goods,6 Cottonwood Court
+816,Gigashots,401-646-3885,Health Care,9 Warbler Avenue
+817,Twinder,159-859-6710,n/a,99 Clemons Point
+818,Flipstorm,393-387-0369,Miscellaneous,02 Homewood Point
+819,Skivee,649-558-1687,n/a,6531 Corben Way
+820,Abata,415-732-7578,Technology,8 Dahle Avenue
+821,Rhycero,885-451-4525,Consumer Non-Durables,6671 Manley Park
+822,Kwimbee,957-463-4554,n/a,0 Maywood Plaza
+823,Topiclounge,311-859-5428,Finance,34022 Schmedeman Plaza
+824,Vinder,448-565-4548,n/a,954 Kensington Center
+825,Pixope,732-641-8663,n/a,2913 Leroy Alley
+826,Twitterwire,921-876-0812,Consumer Services,1362 Lunder Pass
+827,Vipe,826-399-6063,Technology,71550 Barnett Lane
+828,Pixonyx,201-697-8004,Technology,325 Dottie Crossing
+829,Kwimbee,462-994-0458,Capital Goods,6997 Coleman Road
+830,Jaloo,846-712-1362,n/a,9 Bay Terrace
+831,Photospace,815-262-5029,n/a,07 Fairfield Avenue
+832,Wikizz,994-444-2038,n/a,34 Hoepker Avenue
+833,Browsedrive,687-198-2010,Capital Goods,2 Schiller Pass
+834,Thoughtworks,723-893-0716,Technology,093 Meadow Valley Alley
+835,Roombo,609-296-3491,Consumer Services,2373 Fairview Park
+836,Mynte,389-555-2549,Consumer Services,944 Bellgrove Drive
+837,Voolia,847-643-9828,Public Utilities,8 Charing Cross Road
+838,Voonyx,457-899-2844,Energy,8903 Anderson Parkway
+839,Jabbertype,397-716-2469,Consumer Durables,50 Buena Vista Drive
+840,Einti,468-342-3504,n/a,894 Washington Plaza
+841,Quinu,964-390-5017,Capital Goods,96403 Lillian Crossing
+842,Wikizz,984-562-9575,Technology,65 Pennsylvania Pass
+843,Tanoodle,470-925-9834,Basic Industries,32 Crescent Oaks Trail
+844,Tekfly,854-163-1299,Public Utilities,7563 Golden Leaf Point
+845,Livepath,651-326-9023,Technology,5049 Mccormick Drive
+846,Shuffletag,696-450-6530,n/a,4385 Grasskamp Court
+847,Jatri,814-755-0563,Consumer Services,3 Loeprich Junction
+848,Dazzlesphere,744-141-4106,Consumer Services,22123 Waubesa Parkway
+849,Edgeify,558-986-6202,Health Care,42 Cordelia Pass
+850,Realbuzz,240-174-9326,Health Care,0 Golden Leaf Pass
+851,Oyondu,549-331-7314,Finance,078 Clemons Alley
+852,Kwimbee,906-595-1605,Public Utilities,0035 Bunker Hill Plaza
+853,Demivee,507-249-6809,Finance,6 Green Street
+854,Photofeed,243-233-1509,Consumer Services,0538 Katie Plaza
+855,Vidoo,230-343-1990,n/a,6 Shopko Court
+856,Blognation,186-641-6603,Finance,80 Farwell Place
+857,Meezzy,725-649-8176,Finance,36 Melby Pass
+858,Demimbu,922-712-8862,Basic Industries,3137 Summit Hill
+859,Skyndu,408-510-3858,Technology,274 Larry Park
+860,Tagchat,597-907-9225,Finance,009 Pierstorff Court
+861,Buzzshare,202-123-7241,Health Care,5364 Pennsylvania Avenue
+862,Thoughtmix,768-374-9352,Technology,97355 Vera Circle
+863,Zooxo,226-766-7797,n/a,25 Duke Terrace
+864,Trilith,945-837-9356,n/a,664 Elgar Parkway
+865,Blognation,642-117-2702,Public Utilities,04 Mcbride Center
+866,Muxo,268-109-3418,Technology,36287 Hayes Terrace
+867,Yoveo,679-118-3389,Finance,30 West Point
+868,Plambee,938-533-2909,n/a,23194 Merchant Terrace
+869,Flashpoint,699-796-0709,n/a,879 Graedel Place
+870,Roomm,428-914-4729,Health Care,93 Montana Way
+871,Dynazzy,242-664-8006,Capital Goods,32899 Holmberg Park
+872,Viva,197-305-5037,Health Care,761 Maywood Avenue
+873,Quatz,673-206-3280,n/a,65116 Dexter Street
+874,Skibox,831-398-1980,Consumer Services,42 Rutledge Trail
+875,Youopia,704-850-5796,Technology,05 Muir Way
+876,Skinte,987-781-2880,Capital Goods,8824 Autumn Leaf Terrace
+877,Eimbee,136-886-0714,Public Utilities,0009 Stang Place
+878,Meembee,643-879-9305,Consumer Services,23 Sage Avenue
+879,Riffwire,495-842-5572,Consumer Services,2158 Toban Terrace
+880,Vinder,778-242-0694,Energy,7256 Fieldstone Crossing
+881,Brainverse,664-949-3759,Basic Industries,31 Algoma Trail
+882,Abatz,314-678-3446,n/a,80 Mcbride Court
+883,Skalith,426-145-9768,Health Care,12355 David Terrace
+884,Zooveo,769-119-2281,n/a,61 Talmadge Crossing
+885,Skynoodle,665-664-6455,n/a,34 Brown Avenue
+886,Yodoo,401-213-7086,Consumer Durables,7 Karstens Drive
+887,Kimia,132-420-8487,Finance,344 Harper Crossing
+888,Camimbo,382-380-6665,Consumer Non-Durables,161 Logan Center
+889,Divape,245-385-1556,Capital Goods,353 Haas Court
+890,Yacero,674-207-2550,Consumer Services,9286 Northwestern Street
+891,Eabox,344-572-2334,Consumer Non-Durables,5728 Burning Wood Place
+892,Demizz,650-762-7167,Finance,434 Monica Pass
+893,Edgeblab,966-191-3964,Finance,5 Novick Pass
+894,Gigashots,672-518-1194,Consumer Services,6 Mallory Terrace
+895,Myworks,877-794-9976,Consumer Non-Durables,36 Stang Way
+896,Skaboo,504-104-6390,Technology,00372 Armistice Plaza
+897,Jabberbean,919-840-7953,Consumer Services,7119 Westridge Trail
+898,Livefish,296-794-5030,Energy,0 Mitchell Plaza
+899,Latz,666-200-8797,Technology,88 Warbler Hill
+900,Chatterpoint,782-380-1632,Consumer Services,0 Forest Plaza
+901,Agimba,665-907-6151,Technology,32 Blue Bill Park Avenue
+902,Innotype,302-683-3862,Health Care,9607 Logan Junction
+903,Gigabox,418-579-2443,n/a,85 Summer Ridge Parkway
+904,Feedfish,268-196-1022,Public Utilities,0176 Cascade Crossing
+905,Topiclounge,450-650-2491,Transportation,5 Portage Crossing
+906,Skinix,964-821-0277,Energy,20 Maryland Way
+907,Wordware,619-138-1740,Consumer Services,43540 Main Pass
+908,Katz,892-411-6535,Consumer Services,631 Katie Way
+909,Twitterbridge,920-815-6840,n/a,03942 Swallow Center
+910,Fliptune,586-669-6876,Technology,8 Carioca Circle
+911,Gabtune,787-981-2659,Capital Goods,925 Stoughton Circle
+912,Devcast,505-657-6165,Finance,565 Carpenter Plaza
+913,Zoomlounge,533-134-8373,Basic Industries,091 Carpenter Trail
+914,Centimia,275-864-0992,Health Care,3 Shelley Junction
+915,Quinu,724-804-1936,n/a,2 Cottonwood Alley
+916,Meevee,402-218-2749,Finance,03 Clyde Gallagher Crossing
+917,Layo,624-955-8789,Public Utilities,961 Bay Junction
+918,Photobug,501-309-4168,Public Utilities,9517 Village Green Circle
+919,Tagfeed,573-384-5846,Health Care,5245 Warbler Crossing
+920,Plambee,726-536-5088,Transportation,020 Del Mar Court
+921,Yacero,187-598-1416,n/a,6 Pankratz Terrace
+922,Kwinu,374-990-2341,Technology,6558 Roth Pass
+923,Lazz,912-262-2410,Basic Industries,2930 Spaight Crossing
+924,Twinte,804-946-6864,Health Care,5505 Fieldstone Circle
+925,Topicstorm,278-590-7191,Finance,3 Ridgeway Parkway
+926,Brainverse,603-104-8560,n/a,24 Hintze Drive
+927,Feedmix,965-227-4449,Health Care,3236 David Pass
+928,Riffpedia,380-187-5520,Miscellaneous,8846 Express Lane
+929,Vinte,544-196-9710,Public Utilities,0608 Dahle Place
+930,Mymm,781-213-5918,Finance,5718 Pawling Point
+931,Meevee,817-808-9754,Capital Goods,7 Fremont Junction
+932,Twitternation,682-178-8905,n/a,72 Kings Avenue
+933,Cogidoo,470-964-6106,n/a,52767 Onsgard Point
+934,Brightdog,352-160-9619,n/a,25 Nova Terrace
+935,Eare,915-251-7570,Technology,1 Hallows Pass
+936,Photospace,376-715-9394,Technology,71 Lunder Point
+937,Fiveclub,916-325-7779,Health Care,81536 Carey Park
+938,Aibox,267-690-6316,Finance,66 Clarendon Center
+939,Dabjam,561-667-3722,Finance,3079 Sundown Pass
+940,Oloo,909-932-6793,Finance,00778 Crest Line Street
+941,Trunyx,676-529-8342,n/a,0 Mallory Hill
+942,Realpoint,538-714-0922,Energy,028 Scoville Trail
+943,Avamm,809-259-2870,Consumer Services,60 Park Meadow Drive
+944,Jetwire,176-226-2366,n/a,935 Maple Crossing
+945,Skyba,217-925-9037,Finance,612 Delladonna Park
+946,Trudoo,287-524-4943,n/a,5 Portage Lane
+947,Vinder,824-251-2939,Energy,7 Ridgeview Circle
+948,Vinder,173-870-2564,Finance,7613 Johnson Road
+949,Layo,809-536-6091,Technology,89 Jenna Hill
+950,Realblab,165-417-1507,Public Utilities,52 Rowland Way
+951,Jabberstorm,419-587-4688,Consumer Non-Durables,6074 Banding Hill
+952,Camido,615-809-2643,Capital Goods,8363 Northland Park
+953,Quaxo,483-321-1027,Public Utilities,90235 2nd Avenue
+954,Trudeo,722-648-6607,Basic Industries,41446 Mallard Court
+955,Jayo,780-631-5488,Technology,98 Dakota Plaza
+956,Gabtype,545-135-4764,Finance,67 Chinook Lane
+957,Trudoo,507-540-8492,n/a,15 Boyd Lane
+958,Blogspan,427-649-9162,Consumer Services,80 Pearson Place
+959,Yozio,925-220-7127,Finance,4 Dakota Trail
+960,Youfeed,190-492-3785,Energy,1059 Bay Road
+961,Youfeed,777-773-4595,Public Utilities,40 Moose Way
+962,Edgepulse,566-599-1312,Technology,52 Transport Terrace
+963,Jabbersphere,110-142-1653,Health Care,9 Vernon Lane
+964,Thoughtbeat,134-582-9572,Health Care,1 Mesta Junction
+965,Topdrive,570-589-8714,Capital Goods,8449 2nd Point
+966,Twitterbeat,424-860-3847,Public Utilities,31454 Dexter Pass
+967,Feedspan,652-844-4961,Basic Industries,77802 Emmet Point
+968,Zoomlounge,697-231-2480,Health Care,405 Talisman Lane
+969,Edgetag,926-197-3143,Technology,772 Bayside Alley
+970,Jaxbean,931-759-6655,Consumer Services,11626 Steensland Circle
+971,Yodel,202-515-7985,Health Care,731 Barnett Avenue
+972,Zoomzone,270-659-0930,Health Care,1679 Russell Center
+973,Youspan,286-183-9096,n/a,22 Summerview Point
+974,Yodoo,678-854-7145,n/a,9 Waywood Alley
+975,Blogpad,555-777-8610,n/a,4914 Monterey Parkway
+976,Browsezoom,567-102-0196,Finance,13 Esker Road
+977,Yacero,394-127-2848,Consumer Non-Durables,8 Kensington Plaza
+978,Leexo,589-355-0573,Basic Industries,647 Manufacturers Road
+979,Yacero,901-346-0016,Consumer Services,29391 Nevada Avenue
+980,Topdrive,407-414-3807,n/a,72 Aberg Trail
+981,Gabtune,767-270-1834,Basic Industries,60892 Corben Park
+982,Trilia,492-975-4206,n/a,81975 Stone Corner Pass
+983,Photobug,978-126-4896,Finance,026 Lien Junction
+984,Browsebug,443-186-3262,Finance,798 Comanche Drive
+985,Photojam,395-379-8828,Finance,8 Forest Dale Road
+986,Rooxo,675-471-1760,n/a,7 West Drive
+987,Edgetag,982-215-3465,Consumer Services,166 Sunnyside Road
+988,Tagopia,334-817-2297,Health Care,3 Melody Avenue
+989,Talane,842-812-5482,n/a,57 Pleasure Alley
+990,Roodel,958-190-6606,n/a,550 Cardinal Place
+991,Twitterlist,881-464-8399,Finance,188 Tennessee Alley
+992,JumpXS,240-956-8899,Technology,85168 Merry Plaza
+993,Tagtune,864-437-9733,Finance,3326 Bayside Avenue
+994,Skinix,323-896-3119,n/a,10 Sullivan Road
+995,Quire,618-956-3283,Finance,8 Mandrake Way
+996,Realcube,392-579-8383,n/a,2327 Coleman Center
+997,Innojam,615-842-0905,Technology,34 Union Park
+998,Jazzy,343-942-2281,Health Care,378 Bonner Junction
+999,Realpoint,821-751-1219,Capital Goods,81476 Prairieview Pass
+1000,Meeveo,486-341-1380,Capital Goods,46 Brickson Park Junction

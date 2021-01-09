@@ -1,0 +1,31 @@
+[
+    {
+      "Name": "Copy attendances to HDFS",
+      "ActionOnFailure": "CANCEL_AND_WAIT",
+      "HadoopJarStep": {
+        "Jar": "command-runner.jar",
+        "Args": [
+          "s3-dist-cp",
+          "--src=s3://{{ params.bucket_name }}/stage/attendances.csv",
+          "--dest=/dev/data/ERP/ATTENDANCES/"
+        ]
+      }
+    },
+    {
+      "Name": "Calculate students average and integrate to HDFS",
+      "ActionOnFailure": "CANCEL_AND_WAIT",
+      "HadoopJarStep": {
+        "Jar": "command-runner.jar",
+        "Args": [
+          "spark-submit",
+          "s3://{{ params.bucket_name }}/spark/students.py",
+          "--students",
+          "s3://{{ params.bucket_name }}/stage/students.csv",
+          "--grades",
+          "s3://{{ params.bucket_name }}/stage/grades.csv",
+          "--output_uri",
+          "hdfs:///dev/data/ERP/STUDENTS"
+        ]
+      }
+    }
+  ]

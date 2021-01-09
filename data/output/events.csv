@@ -1,0 +1,21 @@
+id,type,date,campus_id,location,description
+1,salon,2020-11-01,1,Rennes,Salon de l'etudiant Parc Expo
+2,salon,2020-11-01,2,Nantes,Salon de l'etudiant Nantes
+3,salon,2020-11-01,3,Paris,Salon de l'etudiant Paris
+4,salon,2020-11-01,4,Lille,Salon de l'etudiant Lille
+5,salon,2020-03-21,1,Rennes,Salon de l'apprentissage Rennes jour 1
+6,salon,2020-03-21,2,Nantes,Salon de l'apprentissage Nantes jour 1
+7,salon,2020-03-21,3,Paris,Salon de l'apprentissage Paris jour 1
+8,salon,2020-03-21,4,Lille,Salon de l'apprentissage Lille jour 1
+9,salon,2020-03-22,1,Rennes,Salon de l'apprentissage Rennes jour 2
+10,salon,2020-03-22,2,Nantes,Salon de l'apprentissage Nantes jour 2
+11,salon,2020-03-22,3,Paris,Salon de l'apprentissage Paris jour 2
+12,salon,2020-03-22,4,Lille,Salon de l'apprentissage Lille jour 2
+13,PO,2020-03-28,1,Rennes,Porte ouverte 1 Rennes
+14,PO,2020-03-28,2,Nantes,Porte ouverte 1 Nantes
+15,PO,2020-03-28,3,Paris,Porte ouverte 1 Paris
+16,PO,2020-03-28,4,Lille,Porte ouverte 1 Lille
+17,PO,2020-05-09,1,Rennes,Porte ouverte 2 Rennes
+18,PO,2020-05-09,2,Nantes,Porte ouverte 2 Nantes
+19,PO,2020-05-09,3,Paris,Porte ouverte 2 Paris
+20,PO,2020-05-09,4,Lille,Porte ouverte 2 Lille
